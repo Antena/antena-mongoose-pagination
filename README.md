@@ -40,4 +40,3 @@ $ npm test
 
 ## License
 
-MIT
