@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-pagination",
+  "name": "antena-mongoose-pagination",
   "version": "1.0.1-antena",
   "description": "Mongoose Query Pagination",
   "main": "./lib/pagination.js",
@@ -41,6 +41,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Moveline/mongoose-pagination.git"
+  },
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
   },
   "license": "MIT"
 }
